@@ -1,7 +1,6 @@
 - 👋 Hi, I’m George (@oozr)
 - 👀 I’m interested in automation with Python, sales analysis, web design
 - 🌱 I’m currently learning Harvard CS50x and following Python tutorials
-- 🕵🏻‍♂️ I'm interested in collaborating on website design and data analysis
 - 📫 How to reach me: @georgelindley15 on Twitter
 
 <!---
