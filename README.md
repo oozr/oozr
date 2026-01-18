@@ -22,15 +22,15 @@ I believe most data-informed decisions are currently costly, distracting, and of
 
 ### How I work
 
-- **no data, no service**  
+- **Rule 1: No data, no service**  
   work starts with real data, not dashboards  
-- **no decision context, no data**  
+- **Rule 2: No decision context, no data**  
   data is collected *because* a decision must be made  
-- **actions require causal reasoning**  
+- **Rule 3: Actions require causal reasoning**  
   patterns describe the past, causes explain what happens *if we intervene*  
-- **data stays close to its source**  
+- **Rule 4: Data stays close to its source**  
   ownership, context, and responsibility matter  
-- **decisions spread faster than products**  
+- **Rule 5: Decisions spread faster than products**  
   agree on *how to decide*, and software follows  
 
 ---
