@@ -7,11 +7,14 @@ drifted. recovered. rebroadcast.
 **oozr is not the source.**  
 **it’s the signal.**
 
----
+### Why I do what I do
 
 I work on problems where:
-- data exists, but creates more noise than insight  
-- correlation is treated as cause, quietly and repeatedly  
+- data is abundant, but insight is scarce  
+- correlation stands in for causation  
+- data projects quietly fail due to gaps between domain knowledge and analysis  
+
+I believe most data-informed decisions are currently costly, distracting, and often sends organisations down the wrong path.
 
 ---
 
