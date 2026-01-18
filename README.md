@@ -43,11 +43,10 @@ I believe most data-informed decisions are currently costly, distracting, and of
 ### What I build
 
 - business & policy analytics  
-- regulatory and compliance intelligence  
+- regulatory and compliance intelligence visualisations
 - decision systems where explanation matters as much as prediction  
 
-Sometimes this results in software.  
-Often, the real work happens upstream, through consulting.
+Sometimes this results in software. Often, the real work happens upstream, through consulting.
 
 ---
 
