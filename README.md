@@ -24,17 +24,12 @@ I believe most data-informed decisions are currently costly, distracting, and of
 
 - **no data, no service**  
   work starts with real data, not dashboards  
-
 - **no decision context, no data**  
   data is collected *because* a decision must be made  
-
 - **actions require causal reasoning**  
-  patterns describe the past  
-  causes explain what happens *if we intervene*  
-
+  patterns describe the past, causes explain what happens *if we intervene*  
 - **data stays close to its source**  
   ownership, context, and responsibility matter  
-
 - **decisions spread faster than products**  
   agree on *how to decide*, and software follows  
 
@@ -42,8 +37,8 @@ I believe most data-informed decisions are currently costly, distracting, and of
 
 ### What I build
 
-- business & policy analytics  
-- regulatory and compliance intelligence visualisations
+- business & policy analytics
+- educational tools based on linguistic data
 - decision systems where explanation matters as much as prediction  
 
 Sometimes this results in software. Often, the real work happens upstream, through consulting.
@@ -52,6 +47,6 @@ Sometimes this results in software. Often, the real work happens upstream, throu
 
 ### Current focus
 
-- business analytics (MSc)  
+- business analytics (MSc at Aston University)  
 - causal reasoning & causal AI (Pearl, DoWhy, SCMs)  
 - production analytics systems built on purposeful data collection  
